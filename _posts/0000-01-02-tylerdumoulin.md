@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#Is this a hashtag or a sharp sign?
 Use the left arrow to go back!
